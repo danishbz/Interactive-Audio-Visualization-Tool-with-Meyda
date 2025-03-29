@@ -1,4 +1,4 @@
-# Interactive Audio Visualization Tool
+# Interactive Audio Visualization Tool with Meyda
 
 ## Overview
 
